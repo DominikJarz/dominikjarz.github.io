@@ -1,0 +1,67 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    background-color: rgb(41, 42, 58) !important;
+
+}
+img{
+    object-fit: contain;
+}
+
+.navbar{
+    background-color: rgb(41, 42, 58) !important;
+}
+
+.navColorActive{
+    color: white !important;
+}
+
+.navColor{
+    color: lightgrey !important;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h5{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+.buttonInCard{
+    width: 100%;
+}
+
+.buttonGroupApp{
+    width: 100%;
+    text-align: center;
+}
+
+.covidLink{
+    color: red!important;
+}
+
+.covidButton{
+    background-color: red !important;
+}
+
+.divInside{
+   background-color: white !important;;
+   margin-right: 50px !important;
+   margin-left: 50px;
+
+   }
+
+.subpageHeader{
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-bottom: 30px;
+}
+
+.card-footer{
+color: white !important;
+}
