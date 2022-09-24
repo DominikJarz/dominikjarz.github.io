@@ -45,14 +45,14 @@ p{
 
 .divInside{
    background-color: rgb(37, 20, 13) !important;
-   padding: 50px !important;
+   padding: 10px !important;
 
    }
 
 .subpageHeader{
-    margin-right: 50px;
-    margin-left: 50px;
-    padding-bottom: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-bottom: 10px;
 }
 
 .card-footer{
@@ -62,5 +62,5 @@ color: white !important;
 
 
 .card{
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
