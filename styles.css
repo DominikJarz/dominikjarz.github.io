@@ -60,6 +60,6 @@ p{
 color: white !important;
 }
 
-#carouselExampleIndicators{
+div.carouselExampleIndicators{
     max-width: 700px !important;
 }
