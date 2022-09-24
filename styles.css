@@ -59,6 +59,7 @@ p{
 color: white !important;
 }
 
-#carouselWrap {
+div.carouselWrap {
     max-width: 700px;
+    margin: auto;
 }
