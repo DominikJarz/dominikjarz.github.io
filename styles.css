@@ -58,3 +58,7 @@ p{
 .card-footer{
 color: white !important;
 }
+
+#carouselWrap {
+    max-width: 700px;
+}
