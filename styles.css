@@ -1,6 +1,6 @@
 body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
-    background-color: rgb(41, 42, 58) !important;
+    background-color: rgb(37, 20, 13) !important;
 
 }
 img{
@@ -8,7 +8,7 @@ img{
 }
 
 .navbar{
-    background-color: rgb(41, 42, 58) !important;
+    background-color: rgb(37, 20, 13) !important;
 }
 
 .navColorActive{
@@ -44,7 +44,7 @@ p{
 
 
 .divInside{
-   background-color: white !important;;
+   background-color: rgb(37, 20, 13) !important;
    margin-right: 50px !important;
    margin-top: 50px !important;
    margin-left: 50px;
