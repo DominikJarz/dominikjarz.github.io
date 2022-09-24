@@ -63,3 +63,7 @@ div.carouselWrap {
     max-width: 700px;
     margin: auto;
 }
+
+.card{
+    margin-bottom: 50px;
+}
